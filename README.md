@@ -1,3 +1,5 @@
+#  Aclaro de que aún no está listo por completo esta configuración, está en un 30% más o menos... 
+
 Para la instalación básica de BSPWM utilice los siguientes paquetes.
 
 Siempre y cuando partiendo desde una instalación de alguna distro con xfce.
