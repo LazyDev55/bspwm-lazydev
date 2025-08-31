@@ -2,7 +2,7 @@
 
 Para la instalación básica de BSPWM utilice los siguientes paquetes.
 
-Siempre y cuando partiendo desde una instalación de alguna distro con xfce.
+Siempre y cuando partiendo desde una instalación de alguna distro (derivada de Debian) con xfce.
 #### Instalar dependencias recomendadas:
 ```
 sudo apt install bspwm sxhkd rofi dunst compton picom polybar vim terminator synapse variety flameshot 
