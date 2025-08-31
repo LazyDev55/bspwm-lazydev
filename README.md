@@ -281,6 +281,8 @@ super + shift + bracketright
 	bspc node -d next.local
 ```
 
+#  Desde aquí, cositas para Polybar
+
 #### 1. Crear un archivo de configuración de Polybar
 Crea el directorio:
 ```
